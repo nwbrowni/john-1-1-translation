@@ -34,7 +34,18 @@ The following English layers preserve increasing levels of interpretive distance
 - Expanded Paraphrase → controlled interpretive inference
 
 # John 1:1 - English Translations
+The linguistic observations in this model are compatible with multiple theological frameworks.
+
+The qualitative reading of θεός, the snapshot reading of ἦν, and the relational reading of πρὸς are all grammatical and contextual options, but they do not, by themselves, determine a single dogmatic system.
+
+The Expanded and Expository layers reflect one particular interpretive trajectory.
+
 ## Structural Gloss (English Interlinear)
+In [the] beginning was the Word,  
+And the Word was toward the God,  
+And God was the Word.
+
+## Structural-Semantic Gloss (Alternate, Qualitative θεὸς Rendering)
 In [the] beginning was the Word,  
 And the Word was toward the God,  
 And divine was the Word.
@@ -63,7 +74,7 @@ This is the state of things at [the] beginning:
 ## Expository Paraphrase with Interpretive Inference
 This is the state of things at [the] beginning[, that is, at the commencement of creation]:  
     - The Word existed.  
-    - The Word existed in relationship to God[, and yet was distinct from God].  
+    - The Word existed in relationship to God [Himself, and yet was distinct from God].  
     - The Word was divine in nature.
 
 <!-- # John 1:1 — Consistency Hierarchy (Mapped to Your Translation Layers)
@@ -84,6 +95,46 @@ This is the state of things at [the] beginning[, that is, at the commencement of
 
 --- -->
 
+# Acknowledgement of Alternate Renderings (Non-Exhaustive)
+This model adopts a qualitative reading of θεός, a relational reading of πρὸς, and a snapshot reading of ἦν as its working assumptions, while acknowledging other grammatically possible views.
+
+## Some Alternate Grammatical Reasonings
+
+### θεός as qualitative‑definite blend
+Some argue that θεός here is both qualitative and definite, emphasizing nature while still implying identity.
+
+### πρὸς as simple relational proximity
+A more minimal reading takes πρὸς as indicating relationship without drawing strong conclusions about distinction.
+
+### Imperfect ἦν as simple past
+The imperfect may be read as a past‑tense description without strong aspectual emphasis on “snapshot.”
+
+## Renderings
+These renderings illustrate how different theological frameworks select different grammatical options; they are not presented as equally probable or equally grounded in the Greek.
+
+### John 1:1 (Minimalist Trajectory)
+The rendering selects a qualitative reading of θεός without metaphysical inference.
+
+*The Minimalist trajectory corresponds to the qualitative layers already present in the translation hierarchy.*
+
+In the beginning was the Word,
+and the Word was with God,
+and the Word was divine in nature. (P/C, based on a qualitative reading)
+
+### John 1:1 (Nicene Trajectory)
+This rendering selects a qualitative‑definite reading of θεός and interprets πρὸς as implying distinction within unity.
+
+In the beginning was the Word,  
+and the Word was with God,  
+and the Word was fully God. (T, based on a qualitative‑definite reading)
+
+### John 1:1 (Arian Trajectory)
+This rendering selects an indefinite reading of θεός and interprets πρὸς as indicating simple relational proximity.
+
+In the beginning was the Word,  
+and the Word was with the God,  
+and a god was the Word. (P/T, based on an indefinite reading)
+
 # Summary of Linguistic Reasoning Framework (John 1:1)
 
 This section summarizes the interpretive principles underlying three key decisions in this model:
@@ -92,6 +143,14 @@ This section summarizes the interpretive principles underlying three key decisio
 2. the **qualitative sense of θεός (“divine in nature”)**
 3. the semantic range of **πρὸς (pros)**
 4. and identifies which translation layers are affected by each decision
+
+---
+
+Classification of Claims Markers:
+- G = grammatically required
+- P = grammatically permitted
+- C = contextually supported
+- T = theologically inferred
 
 ---
 
@@ -104,15 +163,15 @@ The verb **ἦν** (“was”) appears three times in John 1:1:
 - ὁ λόγος ἦν πρὸς τὸν θεόν
 - θεὸς ἦν ὁ λόγος
 
-Rather than describing sequential events, the repeated imperfect forms describe **continuous existence viewed as a whole state**.
+Rather than describing sequential events, the repeated imperfect forms can be read as describing **continuous existence viewed as a whole state**. (P)
 
 ### Reasoning
-- The imperfect tense in Greek commonly expresses **ongoing or continuous existence in past reference time**.
-- The repetition of ἦν across all three clauses creates a unified depiction of reality rather than narrative progression.
-- This supports a **“snapshot” reading**, in which the text presents a fixed state of affairs at “the beginning.”
+- The imperfect tense in Greek commonly expresses **ongoing or continuous existence in past reference time**. (P)
+- The repetition of ἦν across all three clauses creates a unified depiction of reality rather than narrative progression. (P/C)
+- This *naturally* supports a **“snapshot” reading**, in which the text presents a fixed state of affairs at “the beginning,” rather than narrating a sequence of events. This reasoning also pulls support from the **discourse use** of the imperfect here, not from tense-form alone. (P/C)
 
 ### Resulting Interpretive Principle
-> John 1:1 is best read as a description of an existing state rather than a sequence of actions.
+> John 1:1 can be read as a description of an existing state rather than a sequence of actions, a reading that is highly compatible with the repeated imperfect ἦν.” (P)
 
 ---
 
@@ -143,12 +202,15 @@ The clause:
 places **θεός** in predicate position without the article.
 
 ### Reasoning
-- In Koine Greek, **anarthrous predicate nominatives** frequently express **qualitative meaning** rather than strict identity or classification.
-- Word order emphasizes the predicate before the subject (“God/divine was the Word”), reinforcing qualitative force.
-- This allows θεός to be understood as describing **nature or essence**, not simply category membership.
+- In Koine Greek, **anarthrous predicate nominatives** frequently express **qualitative meaning** rather than strict identity or classification. (P)
+- Word order emphasizes the predicate before the subject (“God/divine was the Word”), reinforcing qualitative force. (P)
+- This allows θεός to be understood as describing **nature or essence**, not simply category membership. (P)
+- The qualitative reading of θεός has been argued by, among others, Harner, Dixon, and Wallace.
 
 ### Resulting Interpretive Principle
-> The clause emphasizes what the Word is in nature, not merely what category it belongs to.
+> The clause most naturally emphasizes what the Word is in nature, rather than merely what category it belongs to. (P)
+> This reading is contextually strong but not grammatically exclusive. (P)
+<!-- While a qualitative reading is strongly supported by word order and anarthrous predicate position, the grammar does not strictly exclude a qualitative‑definite nuance. -->
 
 ---
 
@@ -166,7 +228,7 @@ places **θεός** in predicate position without the article.
 #### ✔ Expository Paraphrase with Interpretive Inference
 - maintains “divine nature” as a summarized conclusion
 
-#### ✔ Structural Gloss (indirectly affected)
+#### ✔ Structural-Semantic Gloss (indirectly affected)
 - “divine was the Word” reflects qualitative reading but remains structurally literal
 
 ---
@@ -181,9 +243,9 @@ uses **πρὸς + accusative**, a construction with a broad semantic range.
 
 ### Reasoning
 πρὸς can express:
-- spatial direction (“toward”)
-- relational orientation (“in relation to”)
-- personal encounter (“face-to-face / directed toward another” in context-dependent usage)
+- spatial direction (“toward”) (G)
+- relational orientation (“in relation to”) (G)
+- personal encounter (“face-to-face / directed toward another” in context-dependent usage) (G)
 
 In John 1:1:
 - The construction is paired with personal referents
@@ -191,10 +253,12 @@ In John 1:1:
 - It functions within a pre-creation description
 
 This supports a meaning of:
-> **directional relational orientation without identity collapse**
+> **directional relational orientation**. (G)
+> theological inference based on the broader Christian reading of John, not the grammar alone, adds the inference that this phrasing may imply a distinction. (P)
 
 ### Resulting Interpretive Principle
-> πρὸς expresses relational orientation toward God, implying distinction while maintaining connection.
+> πρὸς expresses relational orientation toward God. (G)
+> When read together with the rest of the verse, this orientation is often understood to imply distinction while maintaining connection—but that inference arises from the clausal relationship, not from the preposition alone.” (P/C)
 
 ---
 
@@ -224,9 +288,9 @@ This supports a meaning of:
 
 These three linguistic decisions function together:
 
-- **ἦν (imperfect)** → establishes a *state snapshot*
-- **θεός (qualitative predicate)** → expresses *nature/essence*
-- **πρὸς (relational orientation)** → expresses *directional distinction within relationship*
+- **ἦν (imperfect)** → establishes a *state snapshot* (P/C)
+- **θεός (qualitative predicate)** → expresses *nature/essence* (P/C)
+- **πρὸς (relational orientation)** → supports, but does not require, *directional distinction within relationship* (P/C/T)
 
 ---
 

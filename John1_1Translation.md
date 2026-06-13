@@ -18,7 +18,7 @@
 | πρὸς | pros | toward |
 | τὸν θεόν | ton theon | the God |
 | καὶ | kai | And |
-| θεὸς | theos | divine / God |
+| θεὸς | theos | God → divine |
 | ἦν | ēn | was |
 | ὁ λόγος | ho logos | the Word |
 
@@ -29,12 +29,27 @@
 The following English layers preserve increasing levels of interpretive distance from the above Greek text:
 
 - Structural Gloss → syntactic correspondence
+- Structural-Semantic Gloss → minimal semantic interpretation
 - Paraphrase → semantic rendering with aspectual interpretation
-- Morphologically Transparent Paraphrase → grammatical visibility (articles, structure)
+- Morphologically Transparent Paraphrase → grammatical visibility
 - Expanded Paraphrase → controlled interpretive inference
+- Snapshot Paraphrase → discourse-level aspect interpretation
+- Expository Paraphrase → explanatory synthesis
 
 # John 1:1 - English Translations
+
 The linguistic observations in this model are compatible with multiple theological frameworks.
+
+### Methodological Note
+
+The Structural Gloss intentionally refrains from adopting a specific interpretation of the anarthrous predicate θεός.
+
+The Structural-Semantic Gloss is the first layer at which a qualitative reading of θεός ("divine") is introduced.
+
+Accordingly, the translation layers progress from:
+- grammatical form,
+- to semantic interpretation,
+- to explanatory synthesis.
 
 The qualitative reading of θεός, the snapshot reading of ἦν, and the relational reading of πρὸς are all grammatical and contextual options, but they do not, by themselves, determine a single dogmatic system.
 
@@ -74,66 +89,8 @@ This is the state of things at [the] beginning:
 ## Expository Paraphrase with Interpretive Inference
 This is the state of things at [the] beginning[, that is, at the commencement of creation]:  
     - The Word existed.  
-    - The Word existed in relationship to God [Himself, and yet was distinct from God].  
+    - The Word existed in relationship to God [and yet was distinct from God].  
     - The Word was divine in nature.
-
-<!-- # John 1:1 — Consistency Hierarchy (Mapped to Your Translation Layers)
-
-## Greek Text (Reference Anchor)
-Ἐν ἀρχῇ ἦν ὁ λόγος  
-καὶ ὁ λόγος ἦν πρὸς τὸν θεόν  
-καὶ θεὸς ἦν ὁ λόγος
-
---- -->
-
-<!-- # John 1:1 — Consistency Hierarchy (Mapped to Your Translation Layers)
-
-## Greek Text (Reference Anchor)
-Ἐν ἀρχῇ ἦν ὁ λόγος  
-καὶ ὁ λόγος ἦν πρὸς τὸν θεόν  
-καὶ θεὸς ἦν ὁ λόγος
-
---- -->
-
-# Acknowledgement of Alternate Renderings (Non-Exhaustive)
-This model adopts a qualitative reading of θεός, a relational reading of πρὸς, and a snapshot reading of ἦν as its working assumptions, while acknowledging other grammatically possible views.
-
-## Some Alternate Grammatical Reasonings
-
-### θεός as qualitative‑definite blend
-Some argue that θεός here is both qualitative and definite, emphasizing nature while still implying identity.
-
-### πρὸς as simple relational proximity
-A more minimal reading takes πρὸς as indicating relationship without drawing strong conclusions about distinction.
-
-### Imperfect ἦν as simple past
-The imperfect may be read as a past‑tense description without strong aspectual emphasis on “snapshot.”
-
-## Renderings
-These renderings illustrate how different theological frameworks select different grammatical options; they are not presented as equally probable or equally grounded in the Greek.
-
-### John 1:1 (Minimalist Trajectory)
-The rendering selects a qualitative reading of θεός without metaphysical inference.
-
-*The Minimalist trajectory corresponds to the qualitative layers already present in the translation hierarchy.*
-
-In the beginning was the Word,
-and the Word was with God,
-and the Word was divine in nature. (P/C, based on a qualitative reading)
-
-### John 1:1 (Nicene Trajectory)
-This rendering selects a qualitative‑definite reading of θεός and interprets πρὸς as implying distinction within unity.
-
-In the beginning was the Word,  
-and the Word was with God,  
-and the Word was fully God. (T, based on a qualitative‑definite reading)
-
-### John 1:1 (Arian Trajectory)
-This rendering selects an indefinite reading of θεός and interprets πρὸς as indicating simple relational proximity.
-
-In the beginning was the Word,  
-and the Word was with the God,  
-and a god was the Word. (P/T, based on an indefinite reading)
 
 # Summary of Linguistic Reasoning Framework (John 1:1)
 
@@ -171,7 +128,7 @@ Rather than describing sequential events, the repeated imperfect forms can be re
 - This *naturally* supports a **“snapshot” reading**, in which the text presents a fixed state of affairs at “the beginning,” rather than narrating a sequence of events. This reasoning also pulls support from the **discourse use** of the imperfect here, not from tense-form alone. (P/C)
 
 ### Resulting Interpretive Principle
-> John 1:1 can be read as a description of an existing state rather than a sequence of actions, a reading that is highly compatible with the repeated imperfect ἦν.” (P)
+> John 1:1 can be read as a description of an existing state rather than a sequence of actions, a reading that is highly compatible with the repeated imperfect ἦν. (P)
 
 ---
 
@@ -228,8 +185,8 @@ places **θεός** in predicate position without the article.
 #### ✔ Expository Paraphrase with Interpretive Inference
 - maintains “divine nature” as a summarized conclusion
 
-#### ✔ Structural-Semantic Gloss (indirectly affected)
-- “divine was the Word” reflects qualitative reading but remains structurally literal
+#### ✔ Structural-Semantic Gloss
+- “divine was the Word” is the first layer that explicitly adopts a qualitative interpretation of θεός
 
 ---
 
@@ -299,20 +256,61 @@ These three linguistic decisions function together:
 | Interpretation Principle | Primary Layers Affected |
 |-------------------------|------------------------|
 | Snapshot (Imperfect / State reading) | Snapshot Paraphrase, Expository Paraphrase |
-| Qualitative θεός | All layers except pure Structural Gloss |
+| Qualitative θεός | Structural-Semantic Gloss and all subsequent layers |
 | Semantic πρὸς | All layers, increasing expansion in higher tiers |
 
 ---
 
 ### Final Insight
+The combined effect of these three linguistic features may be read as a description of:
 
-The combined effect of these three linguistic features is a description of:
-
-> a continuous pre-temporal state of existence, characterized by relational orientation and qualitative identity description.
+> a continuous pre-temporal state of existence, characterized by relational orientation and a qualitative understanding of the Word's nature.
 
 This structure is what allows the translation hierarchy to move from:
 - grammatical form → semantic meaning → interpretive synthesis
 without collapsing the distinctions between them.
+
+---
+
+# Acknowledgement of Alternate Renderings (Non-Exhaustive)
+This model adopts a qualitative reading of θεός, a relational reading of πρὸς, and a snapshot reading of ἦν as its working assumptions, while acknowledging other grammatically possible views.
+
+## Alternate Grammatical Reasonings
+
+### θεός as qualitative‑definite blend
+Some argue that θεός here is both qualitative and definite, emphasizing nature while still implying identity.
+
+### πρὸς as simple relational proximity
+A more minimal reading takes πρὸς as indicating relationship without drawing strong conclusions about distinction.
+
+### Imperfect ἦν as simple past
+The imperfect may be read as a past‑tense description without strong aspectual emphasis on “snapshot.”
+
+## Alternate Renderings
+These renderings illustrate how different theological frameworks select different grammatical options; they are not presented as equally probable or equally grounded in the Greek.
+
+### John 1:1 (Minimalist Trajectory)
+The rendering selects a qualitative reading of θεός without metaphysical inference.
+
+*The Minimalist trajectory corresponds to the qualitative layers already present in the translation hierarchy.*
+
+In the beginning was the Word,
+and the Word was with God,
+and the Word was divine in nature. (P/C, based on a qualitative reading)
+
+### John 1:1 (Nicene Trajectory)
+This rendering selects a qualitative‑definite reading of θεός and interprets πρὸς as implying distinction within unity.
+
+In the beginning was the Word,  
+and the Word was with God,  
+and the Word was fully God. (T, based on a qualitative‑definite reading)
+
+### John 1:1 (Arian Trajectory)
+This rendering selects an indefinite reading of θεός and interprets πρὸς as indicating simple relational proximity.
+
+In the beginning was the Word,  
+and the Word was with the God,  
+and a god was the Word. (P/T, based on an indefinite reading)
 
 ---
 
@@ -323,17 +321,34 @@ without collapsing the distinctions between them.
 ### Structural Gloss
 In [the] beginning was the Word,  
 And the Word was toward the God,  
-And divine was the Word.
+And God was the Word.
 
 #### Why this fits here
-- Mirrors Greek word order and syntax directly.
+- Mirrors Greek word order and syntax as closely as possible.
 - Preserves:
   - ἦν = “was”
   - ὁ λόγος = “the Word”
   - πρὸς τὸν θεόν = “toward the God”
-  - θεὸς ἦν ὁ λόγος = predicate structure
-- Minimal interpretation.
+  - θεὸς ἦν ὁ λόγος = predicate-before-subject structure
+- Makes no attempt to resolve the semantic force of the anarthrous predicate θεός.
 - Primarily concerned with formal correspondence.
+
+---
+
+### Structural-Semantic Gloss
+In [the] beginning was the Word,  
+And the Word was toward the God,  
+And divine was the Word.
+
+#### Why this fits here
+- Retains Greek word order and structure.
+- Preserves:
+  - ἦν = “was”
+  - ὁ λόγος = “the Word”
+  - πρὸς τὸν θεόν = “toward the God”
+  - θεὸς ἦν ὁ λόγος = predicate-before-subject structure
+- Introduces a semantic interpretation of θεός as qualitative.
+- Represents the smallest interpretive step beyond purely structural correspondence.
 
 ---
 
@@ -351,7 +366,7 @@ And divine [in nature] was the Word.
 
 #### Why these fit here
 - “already was” reflects an interpretation of the imperfect ἦν.
-- “divine in nature” reflects a qualitative understanding of θεός.
+- “divine in nature” expands the qualitative understanding of θεός.
 - “toward God” is a standard semantic rendering of πρὸς.
 - Article marking ([the]) makes Greek morphology visible.
 - Expands meaning while remaining closely tied to the grammatical form.
@@ -413,10 +428,11 @@ This is the state of things at [the] beginning[, that is, at the commencement of
 
 | Layer | Type of Fidelity | Strength of Greek Grounding |
 |---------|---------|---------|
-| Structural Gloss | Syntax / word-order | Strong |
-| Paraphrase | Semantic + aspectual interpretation | Moderate |
+| Structural Gloss | Syntax / word-order | Strongest |
+| Structural-Semantic Gloss | Syntax + minimal semantic interpretation | Strong |
+| Paraphrase | Semantic + aspectual interpretation | Moderate–Strong |
 | Morphologically Transparent Paraphrase | Grammar visibility | Moderate–Strong |
-| Snapshot (Aspectual) Paraphrase | Discourse-level aspect interpretation | Moderate–Weak |
+| Snapshot (Aspectual) Paraphrase | Discourse-level aspect interpretation | Moderate |
 | Expanded Paraphrase | Interpretive synthesis | Weak–Moderate |
 | Expository Paraphrase | Expository synthesis | Weak |
 
@@ -424,96 +440,22 @@ This is the state of things at [the] beginning[, that is, at the commencement of
 
 ## Key Insight
 
-All layers remain compatible with the Greek text, but they differ in the extent to which they move beyond the grammatical data.
+The introduction of the Structural-Semantic Gloss separates two distinct questions:
 
-The progression may be viewed as:
+1. **What does the Greek structure say?**
+   - Structural Gloss
+
+2. **What is the most likely semantic force of that structure?**
+   - Structural-Semantic Gloss
+
+From there, the remaining layers progressively expand:
 
 1. Formal correspondence (Structural Gloss)
-2. Semantic expansion (Paraphrase)
-3. Morphological visibility (Morphologically Transparent Paraphrase)
-4. Aspectual/discourse explanation (Snapshot Paraphrase)
-5. Contextual inference (Expanded Paraphrase)
-6. Expository synthesis (Expository Paraphrase)
+2. Minimal semantic interpretation (Structural-Semantic Gloss)
+3. Semantic and aspectual expansion (Paraphrase)
+4. Morphological visibility (Morphologically Transparent Paraphrase)
+5. Aspectual/discourse explanation (Snapshot Paraphrase)
+6. Contextual inference (Expanded Paraphrase)
+7. Expository synthesis (Expository Paraphrase)
 
 Each successive layer increases explanatory content while remaining rooted, to varying degrees, in the underlying Greek text.
-
----
-
-<!-- # For Consideration (Rough Draft)
-
-The following passages are included as comparative material for intertextual reflection. They are not part of the grammatical structure of John 1:1 itself, but are presented to highlight potential semantic and theological parallels in later New Testament usage.
-
----
-
-## John 4:24
-
-### King James Version (KJV)
-God is a Spirit: and they that worship him must worship him in spirit and in truth.
-
-### New American Standard Bible (NASB)
-God is spirit, and those who worship Him must worship in spirit and truth.
-
-### English Standard Version (ESV)
-God is spirit, and those who worship him must worship in spirit and truth.
-
-### Revised Standard Version (RSV)
-God is spirit, and those who worship him must worship in spirit and truth.
-
-### Amplified Bible, Classic Edition (AMPC)
-God is a Spirit [the Source of life, yet invisible to mankind], and those who worship Him must worship Him in spirit and in truth [reality].
-
----
-
-## 2 Peter 1:4
-
-### King James Version (KJV)
-Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
-
-### New American Standard Bible (NASB)
-For by these He has granted to us His precious and magnificent promises, so that by them you may become partakers of the divine nature, having escaped the corruption that is in the world by lust.
-
-### English Standard Version (ESV)
-by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.
-
-### Revised Standard Version (RSV)
-by which he has granted to us his precious and very great promises, that through these you may escape from the corruption that is in the world because of passion, and become partakers of the divine nature.
-
-### Amplified Bible, Classic Edition (AMPC)
-By means of these He has bestowed on us His precious and exceedingly great promises, so that through them you may escape from the moral decay (rottenness and corruption) that is in the world because of covetousness, and become sharers (partakers) of the divine nature.
-
----
-
-## The Connection
-
-### What is this "divine nature"
-#### John 4:24 - It points us toward being a nature rooted in the spiritual reality.
-#### 2 Peter 1:4 - It does not mark Jesus as being identical to God. Christians can have that same nature.
-
-### AI Generated... Kinda misses the point and focuses on linguistics
-Within the linguistic framework of Koine Greek, John 1:1 uses a predicate nominative construction in the third clause:
-
-- καὶ θεὸς ἦν ὁ λόγος  
-  (“and divine was the Word” / “and the Word was God” / “and the Word was of divine nature” in qualitative interpretation)
-
-This structure places emphasis on **qualitative identity** rather than simple categorical equivalence, a feature often described in grammatical terms as a **qualitative predicate nominative**.
-
-In John 4:24, the statement:
-
-- “God is spirit” (πνεῦμα ὁ θεός)
-
-also employs a predicate nominative construction, similarly describing the nature or quality of God rather than identifying God as a member of a class. This creates a parallel in grammatical form with the qualitative structure observed in John 1:1’s third clause (“divine was the Word”).
-
-In 2 Peter 1:4, the phrase:
-
-- “partakers of the divine nature” (θείας κοινωνοὶ φύσεως)
-
-extends this qualitative language into participatory terms, describing a form of shared or participatory relation to what is described as “divine nature.”
-
-Taken together at the level of grammatical observation (not doctrinal synthesis), these passages exhibit a recurring pattern in Koine Greek:
-
-- Predicate nominatives used to express qualitative identity (John 1:1; John 4:24)
-- Use of “divine nature” language to describe qualitative participation or characterization (2 Peter 1:4)
-
-Within this framework, “divine in nature” (as used in the paraphrase of John 1:1) and “partakers of the divine nature” (2 Peter 1:4) share overlapping lexical and conceptual fields, while “God is spirit” (John 4:24) reflects a structurally similar qualitative predicate construction to “divine was the Word.”
-
-These correspondences are presented as **linguistic parallels within Koine Greek usage**, not as standalone theological conclusions derived from John 1:1 alone. -->
